@@ -1,0 +1,6 @@
+temp = 40
+
+while temp<100:
+    print(f"current temp {temp}")
+    temp +=15
+print("Chai got served")
